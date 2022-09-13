@@ -1,48 +1,60 @@
-# Hey, I'm Jonathan 👋
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
 
-[![Twitter Badge](https://img.shields.io/badge/-@JonathanGin52-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jonathangin52)](https://twitter.com/jonathangin52) [![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/)
+##### Hi, I'm Adam:
 
-Nice to meet you! My name is Jonathan. I'm currently studying and working as a [Dev Degree](https://devdegree.ca/) intern @Shopify. I previously worked on building the [Shopify Fulfillment Network](https://www.shopify.com/fulfillment) as a fullstack developer. Nowadays, I am working on Shopify's Experimentation Platform as a data developer.
+- 🎓Recent computer science graduate from UNC - Chapel Hill
+- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
+- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
+- :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
+- :mailbox: You can reach me with the links below
 
-## :game_die: Join my community Connect Four game!
-**NOTE: There is no way to update this file dynamically. The game below is a snapshot of a past game. To see the game live in action, check out [my profile](https://github.com/JonathanGin52)**
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adamalston)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
+[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
 
-![](https://img.shields.io/badge/Moves%20played-84-blue)
-![](https://img.shields.io/badge/Completed%20games-6-brightgreen)
-![](https://img.shields.io/badge/Total%20players-28-orange)
+##### Languages I use
 
-Everyone is welcome to participate! To make a move, click on the **column number** you wish to drop your disk in.
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-It is the **red** team's turn to play.
-|[1](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[2](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C2&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[3](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C3&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[4](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C4&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[5](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C5&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[6](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C6&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[7](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C7&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|
-| - | - | - | - | - | - | - |
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|
-|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|
+##### Some of the technologies I have worked with
 
-Tired of waiting? [Request a move](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7Cai&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) from Connect4Bot :robot: 
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
+![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
 
-Interested in how everything works? [Click here](https://github.com/JonathanGin52/JonathanGin52/tree/master/connect4) to read up on what's happening behind the scenes.
+##### Some of my favorite open source projects
 
-**:alarm_clock: Most recent moves**
-| Team | Move | Made by |
-| ---- | ---- | ------- |
-| Red | 3 | Connect4Bot on behalf of [@JessicaLim8](https://github.com/JessicaLim8) |
-| Blue | 5 | [@fralonra](https://github.com/fralonra) |
-| Red | 3 | [@JessicaLim8](https://github.com/JessicaLim8) |
+[![Bitwarden](https://img.shields.io/badge/-Bitwarden-444444?style=flat&logo=bitwarden&logoColor=175DDC)](https://github.com/bitwarden)
+[![Dark Reader](https://img.shields.io/badge/-Dark&#32;Reader-444444?style=flat&logo=Dark-Reader&logoColor=2f7485)](https://github.com/darkreader/darkreader)
+[![uBlock Origin](https://img.shields.io/badge/-uBlock&#32;Origin-444444?style=flat&logo=UBlock-Origin&logoColor=800000)](https://github.com/gorhill/uBlock)
+[![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+[![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
-**:trophy: Leaderboard: Most game winning moves :100:**
-| Player | Wins |
-| ------ | -----|
-| [@JonathanGin52](https://github.com/JonathanGin52) | 4 |
-| [@will-r-wang](https://github.com/will-r-wang) | 1 |
-| [@JessicaLim8](https://github.com/JessicaLim8) | 1 |
+##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+<!-- wi*quL3fcV -->
 
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
 
-⭐️ From [@JonathanGin52](https://github.com/JonathanGin52)
-
-Inspired by [timburgan](https://github.com/timburgan)
+⭐️ From [AdamAlston](https://github.com/adamalston)

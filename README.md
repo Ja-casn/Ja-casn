@@ -17,7 +17,7 @@ Hola! , soy **Jose Casanova**, **Full Stack Developer** 🚀 de Maracaibo, Venez
 
 - 👨🏽‍💻 Me encuentro en la busqueda de mi primer trabajo tecnologico.
 - 🌱 Explorando diariamente acerca del Frontend y Backend.
-- 🤔 Mi interes es web-development y herramientas útiles.
+- 🤔 Mi interes es acerca de web-development y herramientas útiles para implementarlas en mis proyectos!
 - 📫 Enviame un mensaje a:  [jacapersonal04@gmail.com](mailto:jacapersonal04@gmail.com).
 - 📝 Puedes ver mi [Curriculum Vitae](https://drive.google.com/file/d/1dqLB8OCX55Q72oSKJKBF95UEuFUkIyh-/view?usp=sharing) Para obtener mas informacio
 

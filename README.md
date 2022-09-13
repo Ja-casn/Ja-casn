@@ -1,45 +1,109 @@
-# Welcome aboard my code station <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
+## Hi there 👋
+I'm EdgyCoder previously known as Kawaaii (Programming).  
+- 👨‍💻 I'm some sort of a full-stack developer? If [this](https://www.w3schools.com/whatis/whatis_fullstack.asp) description makes me a full-stack developer.
+- 🌱 I work a lot with Javascript especially with NodeJS and I'm afraid for languages such as C++
+- 🎮 I like gaming but I never know which games I wanna play and never play a game for long!
+- 👯‍♀️ While I don't work much with others, I like to discuss coding with others and learn more.
+- 📫 I do not write blog posts and my twitter is mostly used when I'm bored or waiting for something.
+- ❓ Want to know more about me? You can always contact me via serval social medias!
 
-I am a 22 year old Engineer from India who loves space and exoplanets. I am currently working at ZS Associates as a Business Technology Analyst, working on client centered data solutions. I am passionate about doing research in Computational Astrophysics.
+## Social media
+[![Discord](https://img.shields.io/discord/661411850856038431?label=Discord%20Guild&style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/44yKPxm)
+‎‎ [![Twitter Follow](https://img.shields.io/twitter/follow/edgycoder?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/EdgyCoder)
+‎‎ [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/12418331?color=%23F48024&label=Stack%20overflow&style=for-the-badge&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/12418331/kawaaii)
+‎‎ [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Kawaaii-Programming?label=Reddit&style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/Kawaaii-Programming)  
+‎‎ [![Keybase PGP](https://img.shields.io/keybase/pgp/kawaaii?label=Keybase&logo=keybase&logoColor=ffffff&style=for-the-badge)](https://keybase.io/kawaaii)
+‎‎ [![DockerHub Profile](https://img.shields.io/badge/DockerHub-kawaaii-informational?style=for-the-badge&logo=docker&logoColor=ffffff)](https://hub.docker.com/u/kawaaii)
+‎‎ [![Gitter](https://img.shields.io/gitter/room/edgy-irrelevant/community?label=edgy-irrelevant&logo=gitter&logoColor=ffffff&style=for-the-badge)](https://gitter.im/edgy-irrelevant/community)
 
-I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17,130 mph). Crazy, isn't it? Well grab the firm handle closest to you because we are gonna go warp speed to know my universe.
-  
-<details>
-  <summary><i> Click <b> Here </b> to enter the Warp Speed and know more about my universe! </i>
-<p align="center">  
-  <img align="middle" src="https://media.giphy.com/media/26uf9QPzzlKPvQG5O/giphy.gif" width="120" height="120" />
-  <img align="middle" src="https://media.giphy.com/media/USt6UttIL6e8hsK5Q7/giphy.gif" width="150" height="120" /> 
-</p> </summary>  
+## Current projects
+- [DiscordWhois](https://discordwhois.xyz) ━ A provider to lookup discord users / guilds!
+- [RandomAPI](https://random.rest) (RaPI) ━ A small API that gives random everything from images to quotes
+- Some other small side-projects that are not important enough to mention
+
+## My weekly Waka stats
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-345-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 129 Contributions in the year 2020
+ > 
+> 📦 125.5 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 43 Public repositories
+ > 
+> 🔑 12 Private repositories 
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.5% 
+🌆 Daytime    55 commits     ████████████░░░░░░░░░░░░░   50.46% 
+🌃 Evening    29 commits     ██████░░░░░░░░░░░░░░░░░░░   26.61% 
+🌙 Night      19 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.43%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75% 
+Tuesday      34 commits     ███████░░░░░░░░░░░░░░░░░░   31.19% 
+Wednesday    16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.68% 
+Thursday     21 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.27% 
+Friday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.67% 
+Saturday     6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.5% 
+Sunday       25 commits     █████░░░░░░░░░░░░░░░░░░░░   22.94%
+
+```
+
+
+📊 **This Week I Spend My Time On** 
+
+```text
+⌚︎ Time zone: Europe/Amsterdam
+
+💬 Programming Languages: 
+JavaScript               16 hrs 2 mins       ██████████████████░░░░░░░   71.79% 
+HTML                     2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+JSON                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.78% 
+Pug                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
+CSS                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91%
+
+🔥 Code Editors: 
+VS Code                  22 hrs 20 mins      █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+NameDiscord              12 hrs 36 mins      ██████████████░░░░░░░░░░░   56.41% 
+DiscordWhois             4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.91% 
+Unknown Project          3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.22% 
+StefLuisterdNooit!       41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.08% 
+Hmpff                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
+
+💻 Operating System: 
+Windows                  22 hrs 20 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ████████░░░░░░░░░░░░░░░░░   31.82% 
+Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+Java                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+CSS                      1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+
+```
 
 
 
+<!--END_SECTION:waka-->
 
-<p align="center">
-  <img align="right" src="https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif" width="300" height="300" />
-</p>
+## Credits
+- The stats are generated using [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+- The icons/badges are provided by [Shields.io](https://shields.io/)
 
-- 🌌 I’m currently working at [ZS Associates](https://www.zs.com) as a Business Technology Analyst
-- 🔭 I’m currently learning __Astrophysics__
-- 👯 I’m looking to collaborate on any projects related to (but not limited to) astrophysics, Computer Vision, applications of ML/DL in CV/Audio domain and Robotics
-- ✨ Pronouns: He/him
-- 🛸 Fun fact: I can code without coffee
-- 🎼 Hobbies: [Music](https://www.youtube.com/playlist?list=PLwX1goq_zNSv1TEPV8gUh9gHFdG316yJc) (Piano, Guitar and Singing), watching Anime, connecting with people, cooking and doodling
-
-![Chetan's github stats](https://github-readme-stats.vercel.app/api?username=chetanchawla&show_icons=true&hide_border=true)
-
-We have sped and warped through my universe. Want to unveil your own universe? Contact me at: <a href="https://www.linkedin.com/in/chetan-chawla">
-  <img align="right" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
-</a>
-<a href="https://www.twitter.com/chetan_chawla_">
-  <img align="right" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
-</a>
-<a href="mailto:chetanchawlacc4@gmail.com">
-  <img align="right" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
-</a>
-</details>
-
-<p align="center">
-<img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" />
-</p>
-
-### `We're made of star stuff. We are a way for the cosmos to know itself`- _Carl Sagan_
+⭐️ From [> EdgyCoder ✌](https://github.com/edgycoder)

@@ -1,87 +1,68 @@
-# 🙋‍♂️ Hi there ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Faeris170.aeris170%2Freadme)
+```
+▬▬▬▬.◙.▬▬▬▬
+  ▂▄▄▓▄▄▂                                                        ╫►►        ▁▁ ▓
+◢◤ █▀▀████▄▄▄▄▄▄▄◢◤            ● ● ● ▄▄▄▄▄▄▄████▮                ╫       █████████
+█  NATEE'S GITHUB █▀▀▀▀╬            ▂▃▄▅████▀▀▀████▅▄            ╫    ▟██⍁██⍁██⍁███▙
+◥█████████◤                       ▄█████ FRONTEND █████▄       ▜████ LEARN PYTHON ████▛
+══╩════╩══                         ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲◤         ▜███████████████████▛╬
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
 
-I am Doğa Oruç. I am based in İzmir, Turkey.
+### 👽 Information
+**Hi there, I'm [natee](https://natee.github.io/website). 👋 I am a frontend developer from China.** 
 
-I'm an enthusiastic Game Developer, Graphics Programmer and a Computer Scientist, focused on working with challenging projects and having fun while working.
+[<img src ="https://img.shields.io/badge/🌐-natee.github.io-%23.svg?style=for-the-badge&logo=&logoColor=white%22">](https://natee.github.io/)
 
-![Doğa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aeris170&show_icons=true)
+### 💯 Learning
 
-## - 🕹️ My Job
+<a href="https://github.com/natee/awesome-ppt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natee&repo=awesome-ppt&theme=onedark" />
+</a>
+<a href="https://github.com/natee/build-your-own-vue-next">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natee&repo=build-your-own-vue-next&theme=onedark" />
+</a>
 
-I'm working as a graphics programmer on a Microsoft Hololens project. 👓
+### 🛠 Technologies & Tools
 
-I'm also working as an independent Game Developer ;) 🎮
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vuejs-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=gray)
+![Rollup](https://img.shields.io/badge/-rollup.js-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![PhothoShop](https://img.shields.io/badge/-PhotoShop-071D34?style=flat-square&logo=Adobe-Photoshop&logoColor=54A7F8)
+![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=sketch&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/-Sublime-4B4B4B?style=flat-square&logo=sublime-text&logoColor=FF9800)
+...
 
-## - 🔭 I'm currently working on
+### 💬 Contact Me 
 
-<table style="width:100%; table-layout:fixed">
-  <tr>
-    <th>My Small 2D Game Engine</th>
-    <th>A RISK tabletop game implementation</th>
-    <th>My Small 2D Game Engine, but in C++</th>
-  </tr>
-  <tr>
-    <td>
-		<a href="https://github.com/aeris170/DoaEngine">
-			<img src="https://i.hizliresim.com/kcX3Xz.png" />
-		</a>
-	</td>
-    <td>
-		<a href="https://github.com/aeris170/RISK-Digital-Cut">
-			<img src="https://repository-images.githubusercontent.com/169880359/d106c280-9780-11e9-983c-0b51e49af958" />
-		</a>
-	</td>
-    <td>
-		<a href="https://github.com/chroma-works/NeoDoa">
-			<img src="https://user-images.githubusercontent.com/25724155/72576385-9ca35100-38e0-11ea-9f10-5de3852e6df3.png" />
-		</a>
-	</td>
-  </tr>
-</table>
+![Gmail Badge](https://img.shields.io/badge/-kerncink@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
+![Wechat Badge](https://img.shields.io/badge/-zkShare-7BB32E?style=flat-square&logo=wechat&logoColor=white)
+![QQ Badge](https://img.shields.io/badge/-1835868668-3563d5?style=flat-square&logo=Tencent-QQ)
 
-## - 🧠 I Know / Use
-### Programming Languages:
+### 🚦 Stats
 
-<img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue" style="margin:5px" /><img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp&logoColor=green" style="margin:5px" /><img src="http://img.shields.io/badge/-lua-black?style=for-the-badge&logo=lua&logoColor=blue" style="margin:5px" /><img src="http://img.shields.io/badge/-c-black?style=for-the-badge&logo=c&logoColor=white" style="margin:5px" /><img src="http://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=orange" style="margin:5px" /><img src="http://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" style="margin:5px" />
+<a href="https://github.com/natee/website">
+  <img src="https://github-readme-stats.vercel.app/api?username=natee&show_icons=true&hide=commits" />
+</a>
+<a href="https://github.com/natee/website">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natee&layout=compact" />
+</a>
 
-<code><img src="https://github.com/github/explore/blob/master/topics/matlab/matlab.png?raw=true" height="32px" style="margin:5px" /></code>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/natee/count.svg" />
+</p>
 
-### APIs:
-
-<img src="http://img.shields.io/badge/-opengl-black?style=for-the-badge&logo=opengl" style="margin:5px" /><img src="http://img.shields.io/badge/-qt-black?style=for-the-badge&logo=qt" style="margin:5px" />
-
-<code><img src="https://github.com/github/explore/blob/master/topics/javafx/javafx.png?raw=true" height="32" style="margin:5px" /></code>
-
-### Tools:
-
-<img src="http://img.shields.io/badge/-git-black?style=for-the-badge&logo=git" style="margin:5px" /><img src="http://img.shields.io/badge/-gitgub-black?style=for-the-badge&logo=github" style="margin:5px" /><img src="http://img.shields.io/badge/-unity-black?style=for-the-badge&logo=unity" style="margin:5px" /><img src="http://img.shields.io/badge/-godot-black?style=for-the-badge&logo=godot-engine" style="margin:25x" /><img src="http://img.shields.io/badge/-maven-black?style=for-the-badge&logo=apache-maven&logoColor=red" style="margin:5px" />
-
-<code><img src="https://github.com/github/explore/blob/master/topics/gamemaker/gamemaker.png?raw=true" height="32" style="margin:5px" /></code>
-
-## - 🤓 I’m currently learning
-
-<img src="http://img.shields.io/badge/-unreal_engine-black?style=for-the-badge&logo=unreal-engine&logoColor=blueviolet" style="margin:5px" />
-
-<code><img src="https://upload.wikimedia.org/wikipedia/en/0/01/Directx9.png" height="32" style="margin:5px" /></code><code><img src="https://pbs.twimg.com/profile_images/1138532045364367371/DkXgxFjE.png" height="32" style="margin:5px" /></code>
-
-## - 💬 Ask me about
-
-I'd like to get in touch with the following topics:
-
-- Game Development in C++, C# or Java
-- Graphics Programming in C++, C or Java
-
-## - 📫 How to reach me
-
-You can e-mail me directly, get in touch through the account(s) below!
-
-[![Linkedin Badge](https://img.shields.io/badge/dogaoruc-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/do%C4%9Fa-oru%C3%A7-973b08155/)
-[![Portfolio Badge](http://img.shields.io/badge/event_horizon-check_out_my_portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aeris170.github.io)
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
-⭐ From [aeris170](https://github.com/aeris170)
+---
+⭐️ From [natee](https://github.com/natee)

@@ -70,7 +70,7 @@ JavaScript.  Back-End: NodeJs, ExpressJs, Sequelize. Front-End: React, Redux, CS
 <img src="https://github-readme-stats.vercel.app/api?username=Ja-casn&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="jose's GitHub Stats">
 
 
-# ¿Quieres saber más de mi? ¡Contáctame! <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+## ¿Quieres saber más de mi? ¡Contáctame! <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
 * ✉️ Email: jacapersonal04@gmail.com
 * 📞 Cel: (+58) 4146295525

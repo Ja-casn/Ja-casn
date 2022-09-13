@@ -37,8 +37,7 @@ JavaScript.  Back-End: NodeJs, ExpressJs, Sequelize. Front-End: React, Redux, CS
 
 * Link a Countries App https://pi-countriesjc.vercel.app/countries
 <div display='flex' flex-direction='row'> 
-<img src='./image0-2.jpeg' width='410px' />
-<img src='./countries.png' width='410px' />
+<img src='./piCountries.png' width='410px' />
 </div>
 
 

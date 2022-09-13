@@ -1,32 +1,41 @@
-⭐️ From [JeanCarlos911](https://github.com/JeanCarlos911)
+<h1 align="center">👋 print("Olá, Mundo!") </h1> 
 
-<div align="center"><img alt="Banner | JeanCarlos911" src="https://i.imgur.com/34fiEUG.gif" /></div>
+<a href="https://www.linkedin.com/in/maria-eduarda-de-azevedo-silva-a9a134191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"><a href="https://open.spotify.com/user/6fgvmx4gtnl612cg0jjtyugps" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a><a href="https://twitter.com/ddt_azevedo" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+
 
 <p>
-  <a>
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=JeanCarlos911&show_icons=true&hide_border=true" />
-  </a>
-  
-  [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlos911&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    Me chamo <strong>Maria Eduarda de Azevedo</strong> e atualmente sou acadêmica do curso de Ciências da Computação na Universidade Federal de Campina Grande (UFCG).
 </p>
+<h3>ℹ️ Informações gerais 👩‍💻 🏳️‍🌈</h3>
+<strong>Meus pronomes</strong>: Ela/dela 👩
+<strong>Pode me chamar de</strong>: Duda 🙂
+<strong>De onde sou</strong>: Campina Grande - Paraíba - Brasil 🇧🇷
 
-Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. When I am not studying or programming, I play some music with my electric guitar, I like to read about personal and collective improvement, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.
+<h3>💻 Sobre tecnologias e afins... 🐍 🌐 👩‍💻</h3>
+<h6>O que eu estou sempre aprendendo...</h6>
+<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"/> <strong> Python </strong> (💙💙💙💙💙💙💙💙💙💙💙💙💙💙)
 
-### ✔️ I'm currently learning
-- Kotlin (android development)
-- Java (desktop apps)
+<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg"/> <strong> JavaScript </strong> 
 
-### 😍 What i like to do:
-- I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
+<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919832.svg"/> <strong> TypeScript </strong> 
 
-### 💡 Goals for 2020:
-- Finish my first app on android and publish it on play store
-- Learn the basics of JavaScript, TypeScript
-- Become skilled in Java, kotlin
-- Grow as a person
+<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"/> <strong> Java </strong> 
 
-### ⚡ Relevant achievement
-- Enter the Francisco José de Caldas district university at a very low cost
+<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/2807/2807253.svg"/> <strong> C </strong> 
 
-### 🛠 Interested in:
-- Desktop, mobile, fronted, devOps, games, designer.
+<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/> <strong> HTML5 </strong> 
+
+<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/> <strong> CSS3 </strong> 
+
+<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg"/> <strong> React</strong> 
+
+<img height="30" src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png"/> <strong> Gatsby</strong> 
+
+<h3>🧐 Uma olhadinha no meu GitHub...</h3>
+![Duda's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaEduardaDeAzevedo&show_icons=true&theme=radical)
+
+- Se você gosta de Python tanto quanto eu, tenho uns repositórios com projetinhos muito legais que tratam de processamento de imagem, visão computacional, escrita em arquivos...
+- Um dos meus favoritos é um corretor ortográfico que fiz durante a quarentena como projeto final de um curso de Linguagem C!
+- Sempre estou colocando alguma coisa (aleatória ou não) por aqui.
+
+⭐️ From [MariaEduardaDeAzevedo](https://github.com/MariaEduardaDeAzevedo)

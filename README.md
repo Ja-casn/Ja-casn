@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```javascript
+const jksint = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Python],
+  tools: [React, Redux, Node, Express, MySQL, Sequelize],
+}
+```
 <h3 title="hehehe"> Hey 👋, I'm Zamran!</h3>
 
 <a href="https://www.linkedin.com/in/zamranxd/">

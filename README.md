@@ -17,11 +17,29 @@ Hi there, I'm **Jose Casanova**, a **Full Stack Developer** 🚀 from Maracaibo,
 **About Me!**
 
 - 👨🏽‍💻 I’m currently searching my first job of IT.
-- 🌱 I’m currently exploring more about Frontend and Backend.
+- 🌱 I’m exploring daily about Frontend and Backend.
 - 🤔 My interests are web-development and some useful and cool stuff :D!
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [jacapersonal04@gmail.com](mailto:jacapersonal04@gmail.com).
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1dqLB8OCX55Q72oSKJKBF95UEuFUkIyh-/view?usp=sharing) to get more info.
+
+## Proyectos
+* Musicfy. Es una App para la reproducción de musica gratis ilimitada si eres usuario premium, donde puedes agregar canciones a favoritos, crear playlist y mucho más! Mi trabajo en la app estuvo enfocado en como se apreciaba el home de las canciones y el perfil donde se mostraba información del usuario y playlist creadas, creando una vista de fácil acceso y manejo para el usuario.
+
+* Link a Musicfy https://app-musicfy.vercel.app/
+<div display='flex' flex-direction='row' margin-bottom='30px'> 
+<img src='./imageFaltaUno.jpeg' width='410px' />
+<img src='./image1.jpeg' width='410px' />
+</div>
+
+* CountriesApp! Single Page Application realizada como proyecto individual, cuenta con barra de busqueda, filtrados, detalle de cada país y paginación. Tecnologías utilizadas:
+JavaScript.  Back-End: NodeJs, ExpressJs, Sequelize. Front-End: React, Redux, CSS Puro. Deploy: Heroku y Vercel. Data Base: PostgreSQL. Control de versiones: Git/GitHub.
+
+* Link a Countries App https://pi-countriesjc.vercel.app/countries
+<div display='flex' flex-direction='row'> 
+<img src='./image0-2.jpeg' width='410px' />
+<img src='./countries.png' width='410px' />
+</div>
 
 
 **Languages and Tools:**  
@@ -46,6 +64,7 @@ Hi there, I'm **Jose Casanova**, a **Full Stack Developer** 🚀 from Maracaibo,
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-
+* 📞 Cel: (+58) 4146295525
+* 💬 LinkedIn: https://www.linkedin.com/in/marianela-heredia-/
 
 

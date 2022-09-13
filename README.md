@@ -1,134 +1,48 @@
-<h1 align="center"> नमस्ते 👋, I'm Aryan Chaudhary</h1>
-<h3 align="center">My high Information Gain may Inspire your Decision Tree!</h3>
+# Hey, I'm Jonathan 👋
 
-<p align="center">
-<a href="https://twitter.com/aryanc55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aryanc55" height="20" width="20" /></a>
-<a href="https://kaggle.com/aryanc55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="aryanc55" height="20" width="20" /></a>
-<a href="https://medium.com/@aryanc55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aryanc55" height="20" width="20" /></a>
-<a href="https://www.reddit.com/user/the_real_chaudhary/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.0.1/icons/reddit.svg"  alt="the_real_chaudhary" height="20" width="20"/></a>
-<a href="https://scholar.google.co.uk/citations?user=SqBITcUAAAAJ&hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg"  alt="aryan's google scholor" height="20" width="20"/></a>
-</p>
+[![Twitter Badge](https://img.shields.io/badge/-@JonathanGin52-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jonathangin52)](https://twitter.com/jonathangin52) [![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/)
 
+Nice to meet you! My name is Jonathan. I'm currently studying and working as a [Dev Degree](https://devdegree.ca/) intern @Shopify. I previously worked on building the [Shopify Fulfillment Network](https://www.shopify.com/fulfillment) as a fullstack developer. Nowadays, I am working on Shopify's Experimentation Platform as a data developer.
 
+## :game_die: Join my community Connect Four game!
+**NOTE: There is no way to update this file dynamically. The game below is a snapshot of a past game. To see the game live in action, check out [my profile](https://github.com/JonathanGin52)**
 
+![](https://img.shields.io/badge/Moves%20played-84-blue)
+![](https://img.shields.io/badge/Completed%20games-6-brightgreen)
+![](https://img.shields.io/badge/Total%20players-28-orange)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanc55" alt="aryanc55" /> </p>
+Everyone is welcome to participate! To make a move, click on the **column number** you wish to drop your disk in.
 
-- 🔭 I’m currently working on **CV/NLP problems**
+It is the **red** team's turn to play.
+|[1](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[2](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C2&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[3](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C3&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[4](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C4&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[5](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C5&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[6](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C6&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|[7](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7C7&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)|
+| - | - | - | - | - | - | - |
+|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|
+|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|
+|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|
+|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|
+|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|
+|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/red.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blue.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|![](https://raw.githubusercontent.com/JonathanGin52/JonathanGin52/master/images/blank.png)|
 
-- 🌱 I’m currently learning **Docker**
+Tired of waiting? [Request a move](https://github.com/JonathanGin52/JonathanGin52/issues/new?title=connect4%7Cdrop%7Cred%7Cai&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) from Connect4Bot :robot: 
 
-- 👯 I’m looking to collaborate on **Research projects/AI product development related to core-ML,CV and NLP**
+Interested in how everything works? [Click here](https://github.com/JonathanGin52/JonathanGin52/tree/master/connect4) to read up on what's happening behind the scenes.
 
-- 👨‍💻 All of my projects are available at [Where else than Github](https://github.com/aryanc55)
+**:alarm_clock: Most recent moves**
+| Team | Move | Made by |
+| ---- | ---- | ------- |
+| Red | 3 | Connect4Bot on behalf of [@JessicaLim8](https://github.com/JessicaLim8) |
+| Blue | 5 | [@fralonra](https://github.com/fralonra) |
+| Red | 3 | [@JessicaLim8](https://github.com/JessicaLim8) |
 
-- 📝 I regulary write articles on [Machine Learning and stuff](https://medium.com/@aryanc55)
-
-- 💬 Ask me about **Anything and Everything**
-
-- 📫 How to reach me **aryanc55@gmail.com**
-
-- ⚡ Fun fact **The only special thing about me is I am left-handed :D**
-
-<details>
-
-<summary>A Little More ABout ME!(click to expand)</summary>
-<p align="left">  
-<strong> Strong engineering professional with a B.tech focused on Information Technology from AJAY
-KUMAR GARG ENGINEERING COLLEGE. Research-oriented, interested in Machine Learning, skilled in
-Github, Big Data basics (setup/adminitration), SQL, Linux along with strong theoratical basics in DSA, operating system, and computer networks. 
-</strong></p>  
-
-</details>
-
-
-
-#### Machine Learning Hackathons:
-
-- Ecommerce price prediction [MachineHack](https://www.machinehack.com/hackathons/ecommerce_price_prediction_weekend_hackathon_8) [Code](https://github.com/aryanc55/MachineHackE-Commerce) *Rank-14*
-
-- Glass quality prediction [MachineHack](https://www.machinehack.com/hackathons/glass_quality_prediction_weekend_hackathon_6)[Code](https://github.com/aryanc55/MachinehackGlassQualityPrediction) *Rank-21*
-
-- HackerEarth Predict Gift Prices [HackerEarth](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-price-good-friday-gifts/) [Code](https://github.com/aryanc55/HackerEarthPredictGiftPrices) *Rank-27*
-
-<details>
-<summary>Keeping Track of other hackathons </summary>
-
-*Machine Hack*
-
-- Odi match winner [MachineHack](https://www.machinehack.com/hackathons/odi_match_winner_weekend_hackathon_9)[Code](https://github.com/aryanc55/MachineHackODIMatchWinner) *Rank-41*
-
-- Food quality assessment women in ai hackathon [MachineHack](https://www.machinehack.com/hackathons/food_quality_assessment_women_in_ai_hackathon) [Code](https://github.com/aryanc55/MachineHackFoodQuality)  *Rank-49*
-
-- Used electronics price prediction [MachineHack](https://www.machinehack.com/hackathons/used_electronics_price_prediction_weekend_hackathon_7) [Code](https://github.com/aryanc55/MachineHackElectronicPrice) *Rank-61*
-
-
-*HackerEarth*
-
-- Yet to participate/upload
-
-*Kaggle*
-- Yet to participate/upload
-
-*Zindi*
-
-- Yet to participate/upload
-
-</details>
-
-#### Offline Hackathons:
-
-- Smart India Hackathon 2018 (Team Leader) 
-  - [SIH2018](https://www.sih.gov.in/sih2018Software#disSIH2)
-  - [Project](https://www.sih.gov.in/sih2018Software#disSIH2) -ML model only
-
-#### Research work:
-
-- On the Learning Machine with Amplificatory Neuron in Complex Domain 
-  - [Paper](https://link.springer.com/article/10.1007/s13369-020-04692-3)
-  - [Journal Springer,Arab J Sci Eng (2020)](https://www.springer.com/journal/13369) 
-  - DOI: https://doi.org/10.1007/s13369-020-04692-3 
-
-  *working on*
-- Quaternionic domain multiplicative neuron
-- Template Based OCR 
+**:trophy: Leaderboard: Most game winning moves :100:**
+| Player | Wins |
+| ------ | -----|
+| [@JonathanGin52](https://github.com/JonathanGin52) | 4 |
+| [@will-r-wang](https://github.com/will-r-wang) | 1 |
+| [@JessicaLim8](https://github.com/JessicaLim8) | 1 |
 
 
 
-#### Tools I Know/Used:
+⭐️ From [@JonathanGin52](https://github.com/JonathanGin52)
 
-<p align="left">
-  
-  <img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> 
-  <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="20" height="20"/>
-  
-</p>  
-
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aryanc55&&show_icons=true&theme=radical&line_height=27&v=5" alt="Aryan's GitHub Stats" /> 
-</p>
-
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanc55&theme=radical&layout=compact" />
-</p>
-
-
-#### My Projects:
-<p align="center">
-<b>Already Pinned Down for you sire!</b></br>
-<img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif">
-</p>
-
-
-
-
-⭐️ From [aryanc55](https://github.com/aryanc55)
-
+Inspired by [timburgan](https://github.com/timburgan)

@@ -1,35 +1,42 @@
 
-<h3 title="hehehe"> Hey 👋, I'm Jose!</h3>
+<h3 title="hehehe"> Hey 👋, bienvenid@!</h3>
 
-<a href="https://www.linkedin.com/in/jacasanova98/">
   <img align="left" alt="Jose's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br>
 <br>
-<img src="https://komarev.com/ghpvc/?username=Ja-casn&color=blueviolet">
+<img src="https://komarev.com/ghpvc/?username=Ja-casn&color=blue">
 <br />
 <br />
 
-Hi there, I'm **Jose Casanova**, a **Full Stack Developer** 🚀 from Maracaibo, Venezuela.
+Hola! , soy **Jose Casanova**, **Full Stack Developer** 🚀 de Maracaibo, Venezuela.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**About Me!**
+**Acerca de mi!**
 
-- 👨🏽‍💻 I’m currently searching my first job of IT.
-- 🌱 I’m exploring daily about Frontend and Backend.
-- 🤔 My interests are web-development and some useful and cool stuff :D!
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [jacapersonal04@gmail.com](mailto:jacapersonal04@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1dqLB8OCX55Q72oSKJKBF95UEuFUkIyh-/view?usp=sharing) to get more info.
+- 👨🏽‍💻 Me encuentro en la busqueda de mi primer trabajo tecnologico.
+- 🌱 Explorando diariamente acerca del Frontend y Backend.
+- 🤔 Mi interes es web-development y herramientas útiles.
+- 📫 Enviame un mensaje a:  [jacapersonal04@gmail.com](mailto:jacapersonal04@gmail.com).
+- 📝 Puedes ver mi [Curriculum Vitae](https://drive.google.com/file/d/1dqLB8OCX55Q72oSKJKBF95UEuFUkIyh-/view?usp=sharing) Para obtener mas informacio
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## Proyectos
-* Musicfy. Es una App para la reproducción de musica gratis ilimitada si eres usuario premium, donde puedes agregar canciones a favoritos, crear playlist y mucho más! Mi trabajo en la app estuvo enfocado en como se apreciaba el home de las canciones y el perfil donde se mostraba información del usuario y playlist creadas, creando una vista de fácil acceso y manejo para el usuario.
+* Musicfy. Es una App web de streaming de música, que permite como usuario escuchar on Demand, tiene sistema de autenticación y una pasarela de pagos con Mercado Pago integrada. Mi trabajo en la app estuvo enfocado en como se apreciaba el home de las canciones y el perfil donde se mostraba información del usuario y playlist creadas, creando una vista de fácil acceso y manejo para el usuario.
 
 * Link a Musicfy https://app-musicfy.vercel.app/
 <div display='flex' flex-direction='row' margin-bottom='30px'> 
-<img src='./imageFaltaUno.jpeg' width='410px' />
-<img src='./image1.jpeg' width='410px' />
+<img src='./musicfyApp-pfGroup.png' width='410px' height='220px' />
+<img src='./musicfy/homepage2.png' width='410px' height='220px' />
+<img src='./musicfy/premium.png' width='410px' height='220px' />
+<img src='./musicfy/profile.png' width='410px' height='220px' />
 </div>
 
 * CountriesApp! Single Page Application realizada como proyecto individual, cuenta con barra de busqueda, filtrados, detalle de cada país y paginación. Tecnologías utilizadas:
@@ -37,9 +44,13 @@ JavaScript.  Back-End: NodeJs, ExpressJs, Sequelize. Front-End: React, Redux, CS
 
 * Link a Countries App https://pi-countriesjc.vercel.app/countries
 <div display='flex' flex-direction='row'> 
-<img src='./piCountries.png' width='410px' />
+<img src='./landingP.png' width='410px' height='220px' />
+<img src='./countriesO.png' width='410px' height='220px' />
+<img src='./detailCountry.png' width='410px' height='220px' />
+<img src='./createActivity.png' width='410px' height='220px' />
 </div>
 
+<br>
 
 **Languages and Tools:**  
 
@@ -56,14 +67,14 @@ JavaScript.  Back-End: NodeJs, ExpressJs, Sequelize. Front-End: React, Redux, CS
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ja-casn&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Zamran's GitHub Stats">
-
-⭐️ From [Ja-casn](https://github.com/Ja-casn)
+<img src="https://github-readme-stats.vercel.app/api?username=Ja-casn&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="jose's GitHub Stats">
 
 
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+# ¿Quieres saber más de mi? ¡Contáctame! <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
+* ✉️ Email: jacapersonal04@gmail.com
 * 📞 Cel: (+58) 4146295525
-* 💬 LinkedIn: https://www.linkedin.com/in/marianela-heredia-/
+* 👤 Portfolio: pronto...
+* 💬 LinkedIn: https://www.linkedin.com/in/jacasanova98/
 
 

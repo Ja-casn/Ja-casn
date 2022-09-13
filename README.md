@@ -1,51 +1,42 @@
-## Hello GitHub Fans 👋
-[![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
-[![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
----
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Clark #ms314006
 
-### I'm Siwei Zhou
+Hi, I'm Clark! I am a front-end Developer of web. I love learing new technology and skills of web, I writting articles about technology of program I leanrned on [dev.to](https://dev.to/ms314006). I leaving in Taiwan now. I want to work at others country, talk a lot with all sort of people and know more about this world 😸.
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
+## 🤓 My values
+🍏 Beginner's mindset and curiosity<br>
+🙌 Sharing anything I learned<br>
 
-### 🛠 技术栈 | Tech Stack
+## 🔭 Goals of 2020
 
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
-- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week, I hope I can prepared in 2020 💪. I also want to contribute more open source projects make I can improve my skills of program.
 
-### 开源项目
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
-- [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
-- [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
-- [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
-- [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
-- [一款简洁优雅的VuePress主题](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
-- [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
-- [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
-- [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
-- [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
+## 🧠 That I know and use
+### 📚 Langues and Frameworks
+- HTML5
+- CSS3, SCSS, SASS
+- Material-ui, Antd, Bootstrap
+- JavaScript, TypeScript
+- React, Redux, Redux-Saga React-Router, Next.js
+- Vue, Vuex, Vue-Router
+- Jest, Enzyme, React-Testing-Library, Vue-Testing-Library
 
-### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
+### 🔧 Tool
+- Version Control(Git/it-Flow)
+- Test Driven Developer
+- Open Source Projects
+- Travis-CI
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+## 💡 Projects
+- [Team of Pokemon](https://ms314006.github.io/team-of-pokemon/dist/)
+- [Hangman](https://ms314006.github.io/hangman/dist/)
+- [90 secconds game - A yellow duck](https://ms314006.github.io/90_secGame-with-React/dist/)
+- [Free cell](https://ms314006.github.io/FreeCell-With-React/dist/index.html)
+- [Music player](https://ms314006.github.io/MP3_Player-With-React/dist/)
 
-⭐️ From [JoeyBling](https://github.com/JoeyBling)
+## 🔗 Get in touch
+- Personal site: http://ms314006.github.io/
+- Dev.to: https://dev.to/ms314006
+- StackOverflow: https://stackoverflow.com/users/10421516/clark
+- Medium: https://medium.com/@GQSM
+
+⭐️ From [ms314006](https://github.com/ms314006)

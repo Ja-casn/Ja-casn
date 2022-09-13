@@ -1,58 +1,38 @@
-<!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
+### Hi There!
 
-<!--
-**ZamranxD/ZamranxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Brandon and I'm an undergraduate computer science student at the University of North Carolina at Charlotte. I am currently a Junior with plans to pursue a Masters Degree after I complete my major. Check out my Portfolio <a href="https://brandonrorie.000webhostapp.com/index" target="_blank">here</a>.
 
-Here are some ideas to get you started:
+### Programming Languages and Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 title="hehehe"> Hey 👋, I'm Zamran!</h3>
+- know/using
 
-<a href="https://www.linkedin.com/in/zamranxd/">
-  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+| [<img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="v logo" width="70">](https://www.java.com/en/)  | [<img src="https://lh3.googleusercontent.com/proxy/Sm8_voubhFgEPkWlQyYJwvCfRv6VXrp9ry2xERaVTn4tc1txkb5nCq-u-BJ-g0DR4ZnwJLtwaUBXaXuE9BFaB5czI-xMvVwYjn4fd9MWcR6B3EXhLpyzYbZ2fgQ" alt="go logo" width="70">](https://www.python.org/)  | [<img src="https://raw.githubusercontent.com/guiguan/autocomplete-javascript/master/images/javascript.png" width="70">](https://www.javascript.com/)  | [<img src="https://jfdi.info/wp-content/uploads/bootstrap.png" width="70">](https://getbootstrap.com/)  | [<img src="https://freetuts.net/upload/tut_cate/images/2015/12/14/13/hoc-jquery.png" width="70">](https://jquery.com/)  |
+|---|---|---|---|---|
+
+- learning
+
+|  [<img src="https://pngimg.com/uploads/php/php_PNG12.png" alt="c logo" width="70">](https://www.php.net/) |  [<img src="https://magixsolution.com/wp-content/uploads/2020/02/C-C-classes-kanpur.png" alt="go logo" width="70">](https://isocpp.org/)  |  [<img src="https://miro.medium.com/max/480/1*oNM0JVqivoi3lVPF6ygp9Q.png" alt="c logo" width="70">](https://kotlinlang.org/) |  [<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/99937611/original/d1c6ac81f536b60b0df88472d3582cdc4ad644d4/spring-mvc-boot-application.png" alt="c logo" width="70">](https://spring.io/)
+|---|---|---|---|
+
+### Stats
+
+![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=btror&show_icons=true&line_height=30)
+
+### Contact
+
+<a href="https://www.linkedin.com/in/brandon-rorie-082711159/">
+    <img alt="Shubhamdeep Jha | Linkedin" width="50px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
 </a>
+<a href="https://www.instagram.com/b.ticer.r/">
+    <img alt="Shubhamdeep Jha | Instagram" width="50px" src="https://www.quicksocialmedia.co.uk/cms/instagram-master.png" />
+</a>
+<a href="mailto:brorie3@uncc.edu">
+    <img alt="Shubhamdeep Jha | Gmail" width="50px" src="https://uploads-ssl.webflow.com/5ad4c302a9ea3372eaea975f/5b995a276460dc98cf54bd11_Gmail.png" />
+</a>
+
 <br>
 <br>
-<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet">
-<br />
-<br />
 
-Hi there, I'm **Jose Casanova**, a **Full Stack Developer** 🚀 from Maracaibo, Venezuela.
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-**About Me!**
-
-- 👨🏽‍💻 I’m currently searching my first job of IT
-- 🌱 I’m currently exploring more about Frontend and Backend stuff (bc i'm fullStack) 
-- 🤔 My interests are web-development and some useful and cool stuff :D!
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [jacapersonal04@gmail.com](mailto:jacapersonal04@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1dqLB8OCX55Q72oSKJKBF95UEuFUkIyh-/view?usp=sharing) to get more info.
+⭐️ From [btror](https://github.com/btror)
 
 
-**Languages and Tools:**  
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ZamranxD&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Zamran's GitHub Stats">
-
-⭐️ From [ZamranxD](https://github.com/ZamranxD)

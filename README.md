@@ -1,23 +1,8 @@
-<!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
 
-<!--
-**ZamranxD/ZamranxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 title="hehehe"> Hey 👋, I'm Jose!</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 title="hehehe"> Hey 👋, I'm Zamran!</h3>
-
-<a href="https://www.linkedin.com/in/zamranxd/">
-  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/jacasanova98/">
+  <img align="left" alt="Jose's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br>
 <br>
@@ -47,7 +32,7 @@ Hi there, I'm **Jose Casanova**, a **Full Stack Developer** 🚀 from Maracaibo,
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZamranxD&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Zamran's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Ja-casn&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Zamran's GitHub Stats">
 
 ⭐️ From [Ja-casn](https://github.com/Ja-casn)
 

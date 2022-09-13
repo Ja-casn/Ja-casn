@@ -16,8 +16,8 @@ Hi there, I'm **Jose Casanova**, a **Full Stack Developer** 🚀 from Maracaibo,
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently searching my first job of IT
-- 🌱 I’m currently exploring more about Frontend and Backend stuff (bc i'm fullStack) 
+- 👨🏽‍💻 I’m currently searching my first job of IT.
+- 🌱 I’m currently exploring more about Frontend and Backend.
 - 🤔 My interests are web-development and some useful and cool stuff :D!
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [jacapersonal04@gmail.com](mailto:jacapersonal04@gmail.com).
@@ -33,6 +33,8 @@ Hi there, I'm **Jose Casanova**, a **Full Stack Developer** 🚀 from Maracaibo,
  
  
  <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>   <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+ 
+ <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"/>
 
 <br>
 <br>

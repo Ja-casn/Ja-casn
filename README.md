@@ -72,7 +72,6 @@ JavaScript.  Back-End: NodeJs, ExpressJs, Sequelize. Front-End: React, Redux, CS
 ## ¿Quieres saber más de mi? ¡Contáctame! <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
 * ✉️ Email: jacapersonal04@gmail.com
-* 📞 Cel: (+58) 4146295525
 * 👤 Portfolio: pronto...
 * 💬 LinkedIn: https://www.linkedin.com/in/jacasanova98/
 

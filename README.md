@@ -15,7 +15,7 @@ Hola! , soy **Jose Casanova**, **Full Stack Developer** 🚀 de Maracaibo, Venez
 
 **Acerca de mi!**
 
-- 📗 Me encuentro aprendiendo next.js - react native.
+- 📗 Me encuentro aprendiendo Astro - typescript
 - 🌱 Explorando diariamente acerca del Frontend y Backend.
 - 📫 Enviame un mensaje a:  [jacapersonal04@gmail.com](mailto:jacapersonal04@gmail.com).
 - 📝 Puedes ver mi [Curriculum Vitae](https://drive.google.com/file/d/1dqLB8OCX55Q72oSKJKBF95UEuFUkIyh-/view?usp=sharing) Para obtener mas información.
@@ -72,7 +72,7 @@ JavaScript.  Back-End: NodeJs, ExpressJs, Sequelize. Front-End: React, Redux, CS
 ## ¿Quieres saber más de mi? ¡Contáctame! <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
 * ✉️ Email: jacapersonal04@gmail.com
-* 👤 Portfolio: pronto...
+* 👤 Portfolio: https://josecasanova.vercel.app/
 * 💬 LinkedIn: https://www.linkedin.com/in/jacasanova98/
 
 

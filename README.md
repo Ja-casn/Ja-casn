@@ -18,7 +18,7 @@ Hola! , soy **Jose Casanova**, **Frontend Developer** 🚀 de O carballiño, Our
 - 📗 Me encuentro aprendiendo React - React Native
 - 🌱 Explorando diariamente acerca del Frontend y Backend.
 - 📫 Enviame un mensaje a:  [jacapersonal04@gmail.com](mailto:jacapersonal04@gmail.com).
-- 📝 Puedes ver mi [Curriculum Vitae](https://drive.google.com/file/d/1dqLB8OCX55Q72oSKJKBF95UEuFUkIyh-/view?usp=sharing) Para obtener mas información.
+- 📝 Puedes ver mi [Curriculum Vitae](https://drive.google.com/file/d/1L9b8d4hs9WlemZvzQN1840DtIdKuHhlP/view?usp=sharing) Para obtener mas información.
 
 <br>
 <br>

@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hola! , soy **Jose Casanova**, **Full Stack Developer** 🚀 de Maracaibo, Venezuela.
+Hola! , soy **Jose Casanova**, **Frontend Developer** 🚀 de O carballiño, Ourense.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
